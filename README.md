@@ -1,17 +1,12 @@
-# Hi, World!
+# Hi, World! :smile:
 
-Primeiro repositório do curso de Git e Github
-Repositório criado durante uma aula ao vivo
-Essa linha eu alterei diretamente pelo GitHub
+Primeiro repositório do curso de Git e Github! Repositório criado durante uma aula ao vivo. Essa linha eu alterei diretamente pelo GitHub!
 
 ---
 
--> Teste da Linguagem Markdown :smile:
+--> Teste da Linguagem Markdown :sunglasses: <--
 
--Destacar
-Estou aprendendo linguagem **Markdown** no Curso em Video de Git-GitHub
-*Markdown*
-~~Markdown~~
+-Destacar :point_right: Estou aprendendo linguagem **Markdown** no Curso em Video de Git-GitHub   *Markdown*  ~~Markdown~~
 
 # Titulo nvl 1
 ---
@@ -36,11 +31,9 @@ Estou aprendendo linguagem **Markdown** no Curso em Video de Git-GitHub
 - [x] Estudar Literatura
 - [ ] Composition da Cultura
 
--Para anexar uma imagem
-![nome-da-imagem](endereço da imagem)
+-Para anexar uma imagem :point_right: ![nome-da-imagem](endereço da imagem)
 
--Para anexar um link
-[parte que aparecerá em azul, clicável](a url da página)
+-Para anexar um link :point_right: [parte que aparecerá em azul, clicável](a url da página)
 
 -Tabela
 Num | Nome | Nota
@@ -49,8 +42,7 @@ Num | Nome | Nota
 2 | Guanabara | 7.8
 3 | Dudu | 9
 
--Selecionar
-Nao entendo para que serve o comando `document.querySelector()` da linguagem JavaScript
+-Selecionar :point_right: Nao entendo para que serve o comando `document.querySelector()` da linguagem JavaScript
 
 -Segue abaixo um código simples em JS
 ```
@@ -62,15 +54,10 @@ document.write(`A soma de ${n1} e ${n2} é igual a ${n1 + n2}`)
 -Emojis
 :vulcan_salute: :hand: :monkey:
 
--Site para mais emojis
-github.com/ikatyang
+-Site para mais emojis :point_right: github.com/ikatyang
 
--Colocar emoji em Título de Issues
-entrar no site -> emojipedia
-copiar emoji e depois colar
+-Colocar emoji em Título de Issues :point_right: entrar no site `emojipedia` copiar emoji e depois colar
 
--Citações
-utilizar o `@` e depois o nome do usuário
+-Citações :point_right: utilizar o `@` e depois o nome do usuário
 
--Para responder (quote)
-Utilizar o sinal de `>`
+-Para responder (quote) :point_right: Utilizar o sinal de `>`
