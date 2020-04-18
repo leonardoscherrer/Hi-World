@@ -36,3 +36,39 @@ Lista de tarefas:
 - [ ] Composition da Cultura
 
 Para anexar uma imagem
+![nome-da-imagem](endereço da imagem)
+
+Para anexar um link
+[parte que aparecerá em azul, clicável](a url da página)
+
+Tabela
+Num | Nome | Nota
+---|---|---
+1 | Leo | 10
+2 | Guanabara | 7.8
+3 | Dudu | 9
+
+Nao entendo para que serve o comando `document.querySelector()` da linguagem JavaScript
+
+Segue abaixo um código simples em JS
+```
+var n1 = 3
+var n2 = 5
+document.write(`A soma de ${n1} e ${n2} é igual a ${n1 + n2}`)
+```
+
+Emojis
+:vulcan_salute: :hand: :monkey:
+
+Site para mais emojis
+github.com/ikatyang
+
+Colocar emoji em Título de Issues
+entrar no site -> emojipedia
+copiar emoji e depois colar
+
+Citações
+utilizar o `@` e depois o nome do usuário
+
+Para responder (quote)
+Utilizar o sinal de `>`
