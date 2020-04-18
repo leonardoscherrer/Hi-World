@@ -8,6 +8,7 @@ Essa linha eu alterei diretamente pelo GitHub
 
 -> Teste da Linguagem Markdown :smile:
 
+-Destacar
 Estou aprendendo linguagem **Markdown** no Curso em Video de Git-GitHub
 *Markdown*
 ~~Markdown~~
@@ -18,57 +19,58 @@ Estou aprendendo linguagem **Markdown** no Curso em Video de Git-GitHub
 ***
 ### Titulo nvl 3
 
-Podemos __*misturar*__ configurações
+-Podemos __*misturar*__ configurações
 
-Lista numerada:
+-Lista numerada:
 1. teste
 1. teste2
    1. teste 3
 
-Lista demarcada:
+-Lista demarcada:
 * teste
 * teste2
    * teste3
 
-Lista de tarefas:
+-Lista de tarefas:
 - [ ] Analisar Yduqs
 - [x] Estudar Literatura
 - [ ] Composition da Cultura
 
-Para anexar uma imagem
+-Para anexar uma imagem
 ![nome-da-imagem](endereço da imagem)
 
-Para anexar um link
+-Para anexar um link
 [parte que aparecerá em azul, clicável](a url da página)
 
-Tabela
+-Tabela
 Num | Nome | Nota
 ---|---|---
 1 | Leo | 10
 2 | Guanabara | 7.8
 3 | Dudu | 9
 
+-Selecionar
 Nao entendo para que serve o comando `document.querySelector()` da linguagem JavaScript
 
-Segue abaixo um código simples em JS
+-Segue abaixo um código simples em JS
 ```
 var n1 = 3
 var n2 = 5
 document.write(`A soma de ${n1} e ${n2} é igual a ${n1 + n2}`)
 ```
 
-Emojis
+-Emojis
 :vulcan_salute: :hand: :monkey:
 
-Site para mais emojis
+-Site para mais emojis
 github.com/ikatyang
 
-Colocar emoji em Título de Issues
+-Colocar emoji em Título de Issues
 entrar no site -> emojipedia
 copiar emoji e depois colar
 
-Citações
+-Citações
 utilizar o `@` e depois o nome do usuário
 
-Para responder (quote)
+-Para responder (quote)
 Utilizar o sinal de `>`
